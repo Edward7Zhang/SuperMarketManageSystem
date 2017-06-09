@@ -1,0 +1,20 @@
+#
+#Mon Oct 22 15:24:00 CST 2007
+genBasicCompId=false
+sessionFactoryName=
+profile=
+daoSFId=
+version=3.0
+jndiPath=
+springDaoFile=
+useJavaTypes=true
+keyGenerator=uuid.string
+libInstallFolder=lib
+addLibs2Project=false
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+reSettingsFile=/EnterpriseJXC/hibernate.reveng.xml
+configFile=/EnterpriseJXC/src/hibernate.cfg.xml
+createConfigFile=true
+addLibs2Classpath=false

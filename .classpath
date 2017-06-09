@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="Img/|ActionIcon/" kind="src" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MsSqlJDBC"/>
+	<classpathentry kind="lib" path="E:/jar/sqljdbc4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

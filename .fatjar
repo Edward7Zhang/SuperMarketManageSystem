@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Oct 20 13:10:13 CST 2007
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=false
+onejar.checkbox=false
+jarname=E\:\\\u684C\u9762\u7A7A\u95F4\\\u8FDB\u9500\u5B58\\EnterpriseJXC.jar
+manifest.mergeall=false
+manifest.mainclass=com.lzw.Main
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<po|EnterpriseJXC>~ActionIcon/;<po|EnterpriseJXC>~welcomeB.jpg;<po|EnterpriseJXC>~welcome.jpg;<po|EnterpriseJXC>~main2.gif;<po|EnterpriseJXC>~main1.gif;<po|EnterpriseJXC>~login.jpg
+includes=
